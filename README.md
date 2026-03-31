@@ -12,9 +12,12 @@ IAM Consultant specializing in SailPoint Identity Security Cloud (ISC) implement
 ## Enterprise Experience
 | Project | Purpose | Stack |
 |---------|---------|-------|
-| **SailPoint ISC Implementation** | IGA transition from on-prem to cloud-based solution | SailPoint Identity Security Cloud |
-| **Access Certification Campaigns** | Periodic access reviews and compliance | SailPoint ISC, RBAC |
+| **SailPoint ISC Implementation** | IGA transition from on-prem to cloud-based solution. | SailPoint Identity Security Cloud |
+| **Access Certification Campaigns** | Periodic access reviews to meet regulatory and audit compliance. | SailPoint ISC, RBAC |
 | **JML Automation** | Automated Joiner/Mover/Leaver workflows | SailPoint ISC, RBAC, ABAC
+| **IAM SME Advising** | Provide IAM subject matter expertise consulting to corporate staff, identifying issues and proposing solutions. | Project management, Agile, presentations, leadership, training, cross-functional communication.
+| **On-Prem AD to Entra ID Sync Hybrid Identity** | Syncing identity attributes, group membership, and provisioning between on-prem and cloud systems. | Entra ID, AD
+| **Conditional Access** | Enforce access requirements to cloud-based systems. | Entra ID
 
 ## Technical Skills
 - **IGA Platforms:** SailPoint Identity Security Cloud (ISC)
