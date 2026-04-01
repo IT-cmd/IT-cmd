@@ -37,6 +37,17 @@ IAM Consultant specializing in SailPoint Identity Security Cloud (ISC) implement
 
 ![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900_Azure_Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 [![View](https://img.shields.io/badge/View_Certificate-lightgrey?style=flat-square)](https://www.credly.com/badges/58610d8b-6358-4ab7-87eb-228b92148f2b/linked_in_profile)
+
+## IAM Resources
+Resources I frequently use in my IAM work.
+| Resource name | Scope |
+|---------|---------|
+| **[IDPro Body of Knowledge](https://idpro.org/body-of-knowledge/)** | Vendor neutral collecion of articles by IAM professionals. |
+| **[Awesome-IAM](https://github.com/kdeldycke/awesome-iam)** | Github repo of useful IAM resources. |
+| **[SailPoint ISC Administrator Documentation](https://documentation.sailpoint.com/saas/help/index.html)** | Useful reference for administering IGA. |
+| **[SailPoint ISC Developer Documentation](https://developer.sailpoint.com/docs)** | Docs for IGA developers. |
+| **[Microsoft Zero Trust Workshop](https://zerotrust.microsoft.com/)** | Provides an outline for establishing Zero Trust identity infrastructure. |
+
 <!--
 **IT-cmd/IT-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
